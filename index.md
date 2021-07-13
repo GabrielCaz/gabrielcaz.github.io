@@ -1,5 +1,5 @@
 ## Bienvenue sur le site du Mariage de M & G
-![Image
+![Image of Mariage](https://gabrielcaz.github.com/images/couple-mariage-exigences.jpg)
 ### M
 ```markdown
 Syntax highlighted code block
