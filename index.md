@@ -13,14 +13,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 <form action="https://smartforms.dev/submit/611ec8db7a195017922d71a1" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="email">
-  <input type="text" name="tel">
-  <button type="submit">Send</button>
-  </form>
-<form action="https://smartforms.dev/submit/611ec8db7a195017922d71a1" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="email">
-  <input type="text" name="tel">
-  <button type="submit">Send</button>
+ Nom <input type="text" name="name">
+  email <input type="email" name="email">
+  Téléphone <input type="text" name="tel">
+  <button type="submit">envoyer</button>
   </form>
