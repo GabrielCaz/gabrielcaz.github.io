@@ -12,5 +12,15 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-title: "Sondage"
-external_url: "https://tally.so/r/mOzqMn"
+<form action="https://smartforms.dev/submit/611ec8db7a195017922d71a1" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="email">
+  <input type="text" name="tel">
+  <button type="submit">Send</button>
+  </form>
+<form action="https://smartforms.dev/submit/611ec8db7a195017922d71a1" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="email">
+  <input type="text" name="tel">
+  <button type="submit">Send</button>
+  </form>
