@@ -12,5 +12,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[<link rel="Sondage" href="https://tally.so/r/mOzqMn">]
+<link rel="Sondage" href="https://tally.so/r/mOzqMn">
 ```
