@@ -11,10 +11,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+**Quel est votre régime alimentaire ?**
 <form action="https://smartforms.dev/submit/611ec8db7a195017922d71a1" method="POST">
- Nom <input type="text" name="name">
-  email <input type="email" name="email">
-  Téléphone <input type="text" name="tel">
+ **Nom** <input type="text" name="name">
+  **email** <input type="email" name="email">
+  **Réponse** <input type="text" name="tel">
   <button type="submit">envoyer</button>
   </form>
