@@ -12,8 +12,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://tally.so/r/mOzqMn)
 ```
-<iframe src="https://tally.so/embed/mOzqMn?hideTitle=1&alignLeft=1" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title="Quel est votre régime alimentaire"></iframe>
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
