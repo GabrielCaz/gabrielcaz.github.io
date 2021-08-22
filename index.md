@@ -1,20 +1,4 @@
 ## Bienvenue sur le site du Mariage de M & G
-![Image of Mariage](https://github.com/GabrielCaz/Moment-Of-Love/blob/gh-pages/couple-mariage-exigences.jpg)
-### M
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-**Quel est votre régime alimentaire ?**
-<form action="https://smartforms.dev/submit/611ec8db7a195017922d71a1" method="POST">
- **Nom** <input type="text" name="name">
-  **email** <input type="email" name="email">
-  **Réponse** <input type="text" name="tel">
-  <button type="submit">envoyer</button>
-  </form>
+<div class="embed-container">
+<iframe src="https://tally.so/embed/mOzqMn?hideTitle=1&alignLeft=1" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title="Quel est votre régime alimentaire"></iframe>
+</div>
