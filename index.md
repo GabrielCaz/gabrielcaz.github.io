@@ -17,7 +17,7 @@ Programme à venir :
      
 </body>
 
-<img src="https://raw.githubusercontent.com/GabrielCaz/Moment-Of-Love/4086a9f3055de2bdffa686509eaa051325696f86/couple-mariage-exigences.jpg" > 
+<!--><img src="https://raw.githubusercontent.com/GabrielCaz/Moment-Of-Love/4086a9f3055de2bdffa686509eaa051325696f86/couple-mariage-exigences.jpg" >  -->
      
 <div class="embed-container">
 <iframe src="https://tally.so/embed/mOzqMn?hideTitle=0&alignLeft=1" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title="Quel est votre régime alimentaire"></iframe>
