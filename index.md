@@ -10,4 +10,3 @@
 setTimeout(() => { x[0].remove(); }, 10);
 </Script>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7311122048120484" crossorigin="anonymous"></script>
